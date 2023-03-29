@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "Legendary",
+    "description": "Legendary test",
+    "image": "ipfs://QmQGb5Y2YGFjnM7Uxe7j1KknNdFpxzDNMtpJbfdWg56rmV/legendary.png",
+    "attributes": [{
+        "trait_type": "Type",
+        "value": "Legendary"
+    }]
+}

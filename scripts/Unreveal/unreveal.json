@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "Unreveal data",
+    "description": "Unreveal test",
+    "image": "ipfs://QmeydfZL98odEwHcqiuo7N6xbygyD66ZrF5TZytDpescev/unreveal.jpg",
+    "attributes": [{
+        "trait_type": "Type",
+        "value": "Unreveal"
+    }]
+}
